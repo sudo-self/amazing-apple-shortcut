@@ -1,6 +1,6 @@
-# iphone-retro-shortcut APPLE Device only
+# Amazing-Apple-Retro-shortcut
 ## clone or download the repo
-### git clone https://github.com/sudo-self/iphone-retro-shortcut.git
+### git clone https://github.com/sudo-self/Amazing-Apple-Shortcut.git
 ### Open your new shortcut
 
 ![Untitled 2](https://user-images.githubusercontent.com/119916323/230096973-31578b7c-2f7f-4045-af3e-baa06b07e7ae.jpg)
